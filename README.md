@@ -14,3 +14,13 @@ Informe de detección y evaluación de riesgo sobre una notebook personal con Wi
 - Matriz y cálculo de riesgo
 - Plan de remediación
 - Lecciones aprendidas
+
+## 📌 2. Laboratorios y Rutas — TryHackMe
+
+### Ruta: Comienza tu camino hacia la ciberseguridad (*Cyber Security 101*)
+
+| Módulo | Estado | Descripción / Apuntes |
+| :--- | :---: | :--- |
+| **Introducción a la seguridad ofensiva** | Completo | Conceptos básicos de pentesting, pruebas sobre sistema web FakeBank. |
+| **Introducción a la seguridad defensiva** | Completo | Monitoreo, análisis de respuesta a incidentes y conceptos de SOC. |
+| **Habilidades de búsqueda** | En progreso ⏳ | Uso de motores de búsqueda avanzados y técnicas de investigación. |
