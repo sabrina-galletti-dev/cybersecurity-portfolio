@@ -23,4 +23,5 @@ Informe de detección y evaluación de riesgo sobre una notebook personal con Wi
 | :--- | :---: | :--- |
 | **Introducción a la seguridad ofensiva** | Completo | Conceptos básicos de pentesting, pruebas sobre sistema web FakeBank. |
 | **Introducción a la seguridad defensiva** | Completo | Monitoreo, análisis de respuesta a incidentes y conceptos de SOC. |
-| **Habilidades de búsqueda** | En progreso ⏳ | Uso de motores de búsqueda avanzados y técnicas de investigación. |
+| **Habilidades de búsqueda** | Completo | Uso de motores de búsqueda avanzados y técnicas de investigación. |
+| **Linux Fundamentals** | En progreso ⏳ | Uso de motores de búsqueda avanzados y técnicas de investigación. |
